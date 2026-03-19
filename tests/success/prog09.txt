@@ -1,0 +1,7 @@
+var s1={1,true}++{2,false};
+assert #s1==2; // ha successo
+assert (1,true) in s1; // ha successo
+var s2={{1}++{2}++{3}}++{{3}++{4}++{5}};
+assert #s2==2; // ha successo
+assert {1}++{2}++{3} in s2 // ha successo
+

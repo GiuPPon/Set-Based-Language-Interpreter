@@ -1,0 +1,2 @@
+var s={1}++{true} // Static error: Found  BOOL set, expected INT set
+

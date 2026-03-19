@@ -1,0 +1,4 @@
+var s={for x in {1}| x};
+print x // Static error: projectLabo.environments.EnvironmentException: Undeclared Variable(x)
+// con opzione -ntc: Dynamic error: projectLabo.environments.EnvironmentException: Undeclared Variable(x)
+

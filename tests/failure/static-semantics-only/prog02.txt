@@ -1,0 +1,1 @@
+var x=1 in {true} // Static error: Found  BOOL set, expected INT set

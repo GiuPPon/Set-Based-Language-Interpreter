@@ -1,0 +1,12 @@
+var i=0;
+var s={0}\{0};
+while(!(i==10)){
+	s=s++{i};
+	i=i+1
+};
+assert #s==10; // ha successo
+i=0;
+while(!(i==10)){
+	assert i in s; // ha successo
+	i=i+1
+}

@@ -1,0 +1,2 @@
+var s1 = {1}++{2}++{3};
+assert !(s1++s1\s1==s1++(s1\s1)) // ha successo

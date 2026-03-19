@@ -1,0 +1,3 @@
+var s1 = {1}++{2}++{3};
+var s2 = {for x in s1 | x};
+assert s1==s2 // ha successo

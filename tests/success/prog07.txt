@@ -1,0 +1,8 @@
+var s1={1}++{2}++{3};
+var s2={for x in s1 | 3*x+1}++{for x in s1 | 3*x+2}++{for x in s1 | 3*x+3};
+assert #s2==9; // ha successo
+var i=4;
+while(!(i==13)){
+	assert i in s2; // ha successo
+	i=i+1
+}

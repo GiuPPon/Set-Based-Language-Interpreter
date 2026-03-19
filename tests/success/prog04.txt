@@ -1,0 +1,2 @@
+var s1 = {1};
+assert 1 in s1 && 2 in s1++{2} && 1 in s1\{2} && 2 in s1==3 in s1 // ha successo 
