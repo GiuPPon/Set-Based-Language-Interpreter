@@ -122,6 +122,6 @@ java projectLabo.Main -i tests/success/prog01.txt
 ```
 
 ### Partecipanti
-Riccardo Malchiodi
-Giulia Ponassi
-Greck Giancarlo Sanchez Jaramillo
+Riccardo Malchiodi <br>
+Giulia Ponassi <br>
+Greck Giancarlo Sanchez Jaramillo <br>
