@@ -1,7 +1,7 @@
 # Progetto finale LPO a.a. 2024-2025
 Questo progetto consiste nello sviluppo di un interprete completo per un linguaggio di programmazione con supporto avanzato agli insiemi, includendo parsing, semantica statica (type checking) e semantica dinamica (valutazione).
 
-<b>NOTA</b> il progetto originale è stato sviluppato all’interno di una repository privata universitaria. Siccome non è possibile renderla pubblica direttamente ho
+<b>NOTA</b> il progetto originale è stato sviluppato all’interno di una repository privata universitaria. Siccome non è possibile renderla pubblica direttamente abbiamo
 semplicemente fatto un nuovo upload.
 
 - il programma da eseguire può essere letto da un file di testo `<filename>` con l’opzione `-i <filename>`, altrimenti viene letto dallo standard
@@ -120,3 +120,8 @@ Esempio esecuzione:
 ```
 java projectLabo.Main -i tests/success/prog01.txt
 ```
+
+### Partecipanti
+Riccardo Malchiodi
+Giulia Ponassi
+Greck Giancarlo Sanchez Jaramillo
